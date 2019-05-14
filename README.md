@@ -1,6 +1,3 @@
-<title>我的主页</title>
-</head>
-
 <!--body部分为网页显示内容-->
 <body background="image/2.jpg" bgproperties="fixed">
 <!--标题-->
@@ -16,7 +13,6 @@
   <tr>
     <td colspan="2" align="center"><font color="#FF9933" size="+2"><b>个人简介</b></font></td>
     <td width="163">&nbsp;</td>
-    <td width="205" rowspan="3"><a href="school.html"  target="_blank"><img src="image/1.jpg" /></a></td>
   </tr>
   <tr>
     <td height="282" colspan="3"><p class="style3">姓名：黄桦莹</p>
