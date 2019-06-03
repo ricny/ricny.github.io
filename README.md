@@ -3,10 +3,8 @@
 <!--标题-->
 <h1><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 个人主页</strong></h1>
 <table width="89%" border="0" align="center" cellpadding="0" cellspacing="0">
-<tr><th width="243" height="50" align="center" valign="middle" bgcolor="#66FF00"><h3>我的主页</h3></th>
-<td width="277" height="50" align="center" valign="middle" bgcolor="#66FF33"><h3>个人简介</h3></td>
-<td width="268" height="50" align="center" bgcolor="#66FF66"><h3>爱好特长</h3>
-  <h3>卡卡卡卡</h3>
+<td width="268" height="50" align="center" bgcolor="#66FF66"><h3>爱好特长：</h3>
+  <h6>卡卡卡卡</h6>
      </td>
     <td width="204" height="18" align="center" bgcolor="#66FF99"><h3>荣誉奖励</h3></td>
 </tr>
