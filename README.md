@@ -8,7 +8,7 @@
      </td>
     <td width="204" height="18" align="center" ><h3>荣誉奖励：</h3>
   <h6>无</h6></td>
-</tr>
+
 </table>
 <table width="89%" height="418" border="0" align="center">
   <tr>
