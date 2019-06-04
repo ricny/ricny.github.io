@@ -1,5 +1,5 @@
 <!--body部分为网页显示内容-->
-<body background="image/2.jpg" bgproperties="fixed">
+
 <!--标题-->
 <h1><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 个人主页</strong></h1>
 <table width="89%" border="0" align="center" cellpadding="0" cellspacing="0">
