@@ -14,7 +14,7 @@
   <tr>
     <td colspan="2" align="center"><font color="#FF9933" size="+2"><b>基本信息</b></font></td>
 <td width="163">&nbsp;</td>
-<td width="205" rowspan="3">照片<img src="1.jpg" /></a></td>
+<td width="205" rowspan="3">照片<img src="1.jpg" /></td>
   </tr>
   <tr>
     <td height="282" colspan="3"><p class="style3">姓名：黄桦莹</p>
