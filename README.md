@@ -3,10 +3,10 @@
 <!--标题-->
 <h1><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 个人主页</strong></h1>
 <table width="89%" border="0" align="center" cellpadding="0" cellspacing="0">
-<td width="268" height="50" align="center" bgcolor="#66FF66"><h3>爱好特长：</h3>
+<td width="268" height="50" align="center" ><h3>爱好特长：</h3>
   <h6>无</h6>
      </td>
-    <td width="204" height="18" align="center" bgcolor="#66FF99"><h3>荣誉奖励：</h3>
+    <td width="204" height="18" align="center" ><h3>荣誉奖励：</h3>
   <h6>无</h6></td>
 </tr>
 </table>
